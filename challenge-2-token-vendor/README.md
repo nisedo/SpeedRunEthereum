@@ -1,6 +1,6 @@
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
-## My live demo: 
+## My live demo: https://aberrant-town.surge.sh/
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
 
